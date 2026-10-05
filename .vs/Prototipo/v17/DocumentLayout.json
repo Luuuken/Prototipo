@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Unity\\Motores 1\\prototipo\\Prototipo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{520F6668-72B4-1330-8EA0-08DB347B99CE}|Assembly-CSharp.csproj|c:\\unity\\motores 1\\prototipo\\prototipo\\assets\\scripts\\controljugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520F6668-72B4-1330-8EA0-08DB347B99CE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controljugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520F6668-72B4-1330-8EA0-08DB347B99CE}|Assembly-CSharp.csproj|c:\\unity\\motores 1\\prototipo\\prototipo\\assets\\scripts\\movimientocamara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520F6668-72B4-1330-8EA0-08DB347B99CE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movimientocamara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovimientoCamara.cs",
+              "DocumentMoniker": "C:\\Unity\\Motores 1\\prototipo\\Prototipo\\Assets\\Scripts\\MovimientoCamara.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MovimientoCamara.cs",
+              "ToolTip": "C:\\Unity\\Motores 1\\prototipo\\Prototipo\\Assets\\Scripts\\MovimientoCamara.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MovimientoCamara.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T15:29:23.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ControlJugador.cs",
+              "DocumentMoniker": "C:\\Unity\\Motores 1\\prototipo\\Prototipo\\Assets\\Scripts\\ControlJugador.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ControlJugador.cs",
+              "ToolTip": "C:\\Unity\\Motores 1\\prototipo\\Prototipo\\Assets\\Scripts\\ControlJugador.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ControlJugador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T15:27:38.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
